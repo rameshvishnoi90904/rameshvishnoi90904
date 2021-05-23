@@ -1,5 +1,9 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rameshvishnoi90904&count_private=true)
+<summary>📊 Github Stats</summary>
+
+
+![Visitor Count](https://profile-counter.glitch.me/{rameshvishnoi90904}/count.svg)
 <!--
 **rameshvishnoi90904/rameshvishnoi90904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
